@@ -1,0 +1,8 @@
+E:\serviceTest\ServiceTester\ServiceTester\bin\Debug\ServiceTester.exe.config
+E:\serviceTest\ServiceTester\ServiceTester\bin\Debug\ServiceTester.exe
+E:\serviceTest\ServiceTester\ServiceTester\bin\Debug\ServiceTester.pdb
+E:\serviceTest\ServiceTester\ServiceTester\obj\Debug\ServiceTester.exe
+E:\serviceTest\ServiceTester\ServiceTester\obj\Debug\ServiceTester.pdb
+E:\serviceTest\ServiceTester\ServiceTester\obj\Debug\ServiceTester.csprojResolveAssemblyReference.cache
+E:\serviceTest\ServiceTester\ServiceTester\bin\Debug\Newtonsoft.Json.dll
+E:\serviceTest\ServiceTester\ServiceTester\bin\Debug\Newtonsoft.Json.xml
